@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\victor.hlsilva8\\source\\Sistema-03-02-2025\\Sistema2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{549508B2-FE3B-4F05-9F71-39DB1F48445C}|Sitema2\\Sitema2.csproj|c:\\users\\victor.hlsilva8\\source\\sistema-03-02-2025\\sistema2\\sitema2\\gerenciamento_clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{549508B2-FE3B-4F05-9F71-39DB1F48445C}|Sitema2\\Sitema2.csproj|solutionrelative:sitema2\\gerenciamento_clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{549508B2-FE3B-4F05-9F71-39DB1F48445C}|Sitema2\\Sitema2.csproj|c:\\users\\victor.hlsilva8\\source\\sistema-03-02-2025\\sistema2\\sitema2\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{549508B2-FE3B-4F05-9F71-39DB1F48445C}|Sitema2\\Sitema2.csproj|solutionrelative:sitema2\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{549508B2-FE3B-4F05-9F71-39DB1F48445C}|Sitema2\\Sitema2.csproj|c:\\users\\victor.hlsilva8\\source\\sistema-03-02-2025\\sistema2\\sitema2\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{549508B2-FE3B-4F05-9F71-39DB1F48445C}|Sitema2\\Sitema2.csproj|solutionrelative:sitema2\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{549508B2-FE3B-4F05-9F71-39DB1F48445C}|Sitema2\\Sitema2.csproj|C:\\Users\\victor.hlsilva8\\source\\Sistema-03-02-2025\\Sistema2\\sitema2\\cadcarros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{549508B2-FE3B-4F05-9F71-39DB1F48445C}|Sitema2\\Sitema2.csproj|solutionrelative:sitema2\\cadcarros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{549508B2-FE3B-4F05-9F71-39DB1F48445C}|Sitema2\\Sitema2.csproj|c:\\users\\victor.hlsilva8\\source\\sistema-03-02-2025\\sistema2\\sitema2\\cadcarros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{549508B2-FE3B-4F05-9F71-39DB1F48445C}|Sitema2\\Sitema2.csproj|solutionrelative:sitema2\\cadcarros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{549508B2-FE3B-4F05-9F71-39DB1F48445C}|Sitema2\\Sitema2.csproj|c:\\users\\victor.hlsilva8\\source\\sistema-03-02-2025\\sistema2\\sitema2\\gerenciamento_clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{549508B2-FE3B-4F05-9F71-39DB1F48445C}|Sitema2\\Sitema2.csproj|solutionrelative:sitema2\\gerenciamento_clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{549508B2-FE3B-4F05-9F71-39DB1F48445C}|Sitema2\\Sitema2.csproj|C:\\Users\\victor.hlsilva8\\source\\Sistema-03-02-2025\\Sistema2\\sitema2\\cadclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{549508B2-FE3B-4F05-9F71-39DB1F48445C}|Sitema2\\Sitema2.csproj|solutionrelative:sitema2\\cadclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{549508B2-FE3B-4F05-9F71-39DB1F48445C}|Sitema2\\Sitema2.csproj|C:\\Users\\victor.hlsilva8\\source\\Sistema-03-02-2025\\Sistema2\\sitema2\\cadclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{549508B2-FE3B-4F05-9F71-39DB1F48445C}|Sitema2\\Sitema2.csproj|solutionrelative:sitema2\\cadclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 340,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CadClientes.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\victor.hlsilva8\\source\\Sistema-03-02-2025\\Sistema2\\Sitema2\\CadClientes.cs",
+              "RelativeDocumentMoniker": "Sitema2\\CadClientes.cs",
+              "ToolTip": "C:\\Users\\victor.hlsilva8\\source\\Sistema-03-02-2025\\Sistema2\\Sitema2\\CadClientes.cs [Design]",
+              "RelativeToolTip": "Sitema2\\CadClientes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T10:53:45.745Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\victor.hlsilva8\\source\\Sistema-03-02-2025\\Sistema2\\Sitema2\\Menu.cs",
+              "RelativeDocumentMoniker": "Sitema2\\Menu.cs",
+              "ToolTip": "C:\\Users\\victor.hlsilva8\\source\\Sistema-03-02-2025\\Sistema2\\Sitema2\\Menu.cs",
+              "RelativeToolTip": "Sitema2\\Menu.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCwAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T12:27:59.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Menu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\victor.hlsilva8\\source\\Sistema-03-02-2025\\Sistema2\\Sitema2\\Menu.cs",
+              "RelativeDocumentMoniker": "Sitema2\\Menu.cs",
+              "ToolTip": "C:\\Users\\victor.hlsilva8\\source\\Sistema-03-02-2025\\Sistema2\\Sitema2\\Menu.cs [Design]",
+              "RelativeToolTip": "Sitema2\\Menu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T12:26:49.98Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Gerenciamento_Clientes.cs",
+              "DocumentMoniker": "C:\\Users\\victor.hlsilva8\\source\\Sistema-03-02-2025\\Sistema2\\Sitema2\\Gerenciamento_Clientes.cs",
+              "RelativeDocumentMoniker": "Sitema2\\Gerenciamento_Clientes.cs",
+              "ToolTip": "C:\\Users\\victor.hlsilva8\\source\\Sistema-03-02-2025\\Sistema2\\Sitema2\\Gerenciamento_Clientes.cs*",
+              "RelativeToolTip": "Sitema2\\Gerenciamento_Clientes.cs*",
+              "ViewState": "AgIAABIAAAAAAAAAAAAiwCEAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T11:40:48.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Gerenciamento_Clientes.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\victor.hlsilva8\\source\\Sistema-03-02-2025\\Sistema2\\Sitema2\\Gerenciamento_Clientes.cs",
+              "RelativeDocumentMoniker": "Sitema2\\Gerenciamento_Clientes.cs",
+              "ToolTip": "C:\\Users\\victor.hlsilva8\\source\\Sistema-03-02-2025\\Sistema2\\Sitema2\\Gerenciamento_Clientes.cs [Design]*",
+              "RelativeToolTip": "Sitema2\\Gerenciamento_Clientes.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T11:23:09.351Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CadClientes.cs",
+              "DocumentMoniker": "C:\\Users\\victor.hlsilva8\\source\\Sistema-03-02-2025\\Sistema2\\Sitema2\\CadClientes.cs",
+              "RelativeDocumentMoniker": "Sitema2\\CadClientes.cs",
+              "ToolTip": "C:\\Users\\victor.hlsilva8\\source\\Sistema-03-02-2025\\Sistema2\\Sitema2\\CadClientes.cs",
+              "RelativeToolTip": "Sitema2\\CadClientes.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAIwDgAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T12:06:54.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CadCarros.cs",
+              "DocumentMoniker": "C:\\Users\\victor.hlsilva8\\source\\Sistema-03-02-2025\\Sistema2\\Sitema2\\CadCarros.cs",
+              "RelativeDocumentMoniker": "Sitema2\\CadCarros.cs",
+              "ToolTip": "C:\\Users\\victor.hlsilva8\\source\\Sistema-03-02-2025\\Sistema2\\Sitema2\\CadCarros.cs",
+              "RelativeToolTip": "Sitema2\\CadCarros.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwBAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T12:07:07.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CadCarros.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\victor.hlsilva8\\source\\Sistema-03-02-2025\\Sistema2\\Sitema2\\CadCarros.cs",
+              "RelativeDocumentMoniker": "Sitema2\\CadCarros.cs",
+              "ToolTip": "C:\\Users\\victor.hlsilva8\\source\\Sistema-03-02-2025\\Sistema2\\Sitema2\\CadCarros.cs [Design]",
+              "RelativeToolTip": "Sitema2\\CadCarros.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T11:35:34.665Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 52,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
