@@ -45,5 +45,12 @@ namespace Sitema2
             Gerenciamento_Clientes form = new Gerenciamento_Clientes();
             form.ShowDialog();
         }
+
+        private void button2_Click_1(object sender, EventArgs e)
+        {
+            apagar_carros form = new apagar_carros();
+            form.ShowDialog();
+           
+        }
     }
 }

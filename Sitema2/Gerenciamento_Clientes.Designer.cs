@@ -33,16 +33,18 @@
             this.buttonPesquisarClientes = new System.Windows.Forms.Button();
             this.buttonRemoverClientes = new System.Windows.Forms.Button();
             this.buttonFechar = new System.Windows.Forms.Button();
+            this.label1 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.dgvClientes)).BeginInit();
             this.SuspendLayout();
             // 
             // dgvClientes
             // 
             this.dgvClientes.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgvClientes.Location = new System.Drawing.Point(46, 35);
+            this.dgvClientes.Location = new System.Drawing.Point(34, 56);
             this.dgvClientes.Name = "dgvClientes";
-            this.dgvClientes.Size = new System.Drawing.Size(541, 338);
+            this.dgvClientes.Size = new System.Drawing.Size(541, 319);
             this.dgvClientes.TabIndex = 0;
+            this.dgvClientes.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvClientes_CellContentClick);
             // 
             // mySqlDataAdapter1
             // 
@@ -71,6 +73,7 @@
             this.buttonRemoverClientes.TabIndex = 2;
             this.buttonRemoverClientes.Text = "Remover clientes";
             this.buttonRemoverClientes.UseVisualStyleBackColor = true;
+            this.buttonRemoverClientes.Click += new System.EventHandler(this.buttonRemoverClientes_Click);
             // 
             // buttonFechar
             // 
@@ -81,12 +84,24 @@
             this.buttonFechar.TabIndex = 3;
             this.buttonFechar.Text = "Fechar";
             this.buttonFechar.UseVisualStyleBackColor = true;
+            this.buttonFechar.Click += new System.EventHandler(this.buttonFechar_Click);
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Location = new System.Drawing.Point(235, 20);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(151, 20);
+            this.label1.TabIndex = 4;
+            this.label1.Text = "gerenciar clientes";
             // 
             // Gerenciamento_Clientes
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.label1);
             this.Controls.Add(this.buttonFechar);
             this.Controls.Add(this.buttonRemoverClientes);
             this.Controls.Add(this.buttonPesquisarClientes);
@@ -95,6 +110,7 @@
             this.Text = "Gerenciamento_Clientes";
             ((System.ComponentModel.ISupportInitialize)(this.dgvClientes)).EndInit();
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
@@ -105,5 +121,6 @@
         private System.Windows.Forms.Button buttonPesquisarClientes;
         private System.Windows.Forms.Button buttonRemoverClientes;
         private System.Windows.Forms.Button buttonFechar;
+        private System.Windows.Forms.Label label1;
     }
 }

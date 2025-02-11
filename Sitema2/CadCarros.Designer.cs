@@ -75,6 +75,7 @@
             this.maskedTextBoxTelefone.Name = "maskedTextBoxTelefone";
             this.maskedTextBoxTelefone.Size = new System.Drawing.Size(281, 26);
             this.maskedTextBoxTelefone.TabIndex = 2;
+            this.maskedTextBoxTelefone.MaskInputRejected += new System.Windows.Forms.MaskInputRejectedEventHandler(this.maskedTextBoxTelefone_MaskInputRejected);
             // 
             // maskedTextBoxCPF
             // 
@@ -172,6 +173,7 @@
             this.textBoxProprietario.Name = "textBoxProprietario";
             this.textBoxProprietario.Size = new System.Drawing.Size(281, 26);
             this.textBoxProprietario.TabIndex = 1;
+            this.textBoxProprietario.TextChanged += new System.EventHandler(this.textBoxProprietario_TextChanged);
             // 
             // label2
             // 

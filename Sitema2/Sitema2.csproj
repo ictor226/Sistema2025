@@ -101,6 +101,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="apagar_carros.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="apagar_carros.Designer.cs">
+      <DependentUpon>apagar_carros.cs</DependentUpon>
+    </Compile>
     <Compile Include="CadCarros.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -133,6 +139,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="apagar_carros.resx">
+      <DependentUpon>apagar_carros.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="CadCarros.resx">
       <DependentUpon>CadCarros.cs</DependentUpon>
     </EmbeddedResource>

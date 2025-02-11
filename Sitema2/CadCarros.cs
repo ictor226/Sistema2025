@@ -151,5 +151,15 @@ namespace Sitema2
         {
 
         }
+
+        private void textBoxProprietario_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void maskedTextBoxTelefone_MaskInputRejected(object sender, MaskInputRejectedEventArgs e)
+        {
+
+        }
     }
 }
